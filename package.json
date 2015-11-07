@@ -19,7 +19,8 @@
     "hubot-slack": "~3.4.1",
     "hubot-movie": "~0.1.0",
     "hubot": "~2.16.0",
-    "hubot-insanedomains": "0.0.2"
+    "hubot-insanedomains": "0.0.2",
+    "hubot-cah": "~0.1.0"
   },
   "engines": {
     "node": "0.10.x"
