@@ -20,7 +20,8 @@
     "hubot-movie": "~0.1.0",
     "hubot": "~2.16.0",
     "hubot-insanedomains": "0.0.2",
-    "hubot-cah": "~0.1.0"
+    "hubot-cah": "~0.1.0",
+    "hubot-xkcd": "0.0.3"
   },
   "engines": {
     "node": "0.10.x"
