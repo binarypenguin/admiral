@@ -12,5 +12,7 @@
   "hubot-movie",
   "hubot-insanedomains",
   "hubot-cah",
-  "hubot-xkcd"
+  "hubot-xkcd",
+  "hubot-cheers",
+  "hubot-fliptable"
 ]
