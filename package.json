@@ -23,7 +23,9 @@
     "hubot-cah": "~0.1.0",
     "hubot-xkcd": "0.0.3",
     "hubot-cheers": "~1.0.0",
-    "hubot-fliptable": "~1.2.0"
+    "hubot-fliptable": "~1.2.0",
+    "hubot-ross": "~1.0.1",
+    "hubot-insulter": "~1.0.2"
   },
   "engines": {
     "node": "0.10.x"
