@@ -26,7 +26,8 @@
     "hubot-fliptable": "~1.2.0",
     "hubot-ross": "~1.0.1",
     "hubot-insulter": "~1.0.2",
-    "hubot-plusplus": "~1.2.3"
+    "hubot-plusplus": "~1.2.3",
+    "hubot-quote-database": "~1.0.0"
   },
   "engines": {
     "node": "0.10.x"
