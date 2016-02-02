@@ -19,5 +19,6 @@
   "hubot-insulter",
   "hubot-plusplus",
   "hubot-sentimental",
-  "hubot-quote-database"
+  "hubot-quote-database",
+  "hubot-scripts-stock"
 ]
