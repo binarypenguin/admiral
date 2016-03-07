@@ -28,7 +28,8 @@
     "hubot-insulter": "~1.0.2",
     "hubot-plusplus": "~1.2.3",
     "hubot-quote-database": "~1.0.0",
-    "hubot-scripts-stock": "~0.2.1"
+    "hubot-scripts-stock": "~0.2.1",
+    "hubot-sentimental": "~1.0.8"
   },
   "engines": {
     "node": "0.10.x"
